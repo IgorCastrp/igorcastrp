@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello you! 👋
 
-<!--
-**IgorCastrp/igorcastrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Let's get started with some basic informations about me!
 
-Here are some ideas to get you started:
+I'm from Brazil and:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  📝 Currently studiyng Systems Analysis and Development at SENAC college, graduating in 2026;
+  💻 Working as Junior Operations Analyst;
+
+I'm creating this portfolio to show all my path to become a Data Scientist, my final goal is to be in the area of Machine Learning.
+Now I'm following a roadmap that ChatGPT helps me to create, I'm also creating my own projects to train and learn new skills.
+
+I love the IT area and help people to make their life more simple and easy.
