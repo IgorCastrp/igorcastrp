@@ -1,5 +1,5 @@
 <h1 align="center">Hello World! 🙂👋</h1>
-<h3 align="center">A passionate Data Scientist from Brazil</h3>
+<h3 align="center">An IT passionate from Brazil</h3>
 
 Hello, you!
 
