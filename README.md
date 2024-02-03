@@ -9,7 +9,7 @@ My goal with this profile is showing my knowlege and my studies.
 Now, I'm studying the CS50 2024 from Harvard and make some personal projects to learn and show my habilities, also, I will follow a roadmap created by the ChatGPT to help me the path to become a ML Engineer.
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/IgorCastrp]([https://github.com/IgorCastrp](https://github.com/IgorCastrp?tab=repositories))
+- 👨‍💻 All of my projects are available at [https://github.com/IgorCastrp]((https://github.com/IgorCastrp?tab=repositories))
 
 - 📫 How to reach me **igor_2013@hotmail.com.br**
 
