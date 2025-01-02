@@ -17,6 +17,8 @@ Now, I'm studying the CS50 2024 from Harvard and make some personal projects to 
 
 - ⚡ Fun fact: **I laugh about stupid things**
 
+- Best TV Series of all time: The Office (US)
+
 
 <h3 align="left">Languages and Tools:</h3>
 </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
