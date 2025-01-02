@@ -17,7 +17,7 @@ Now, I'm studying the CS50 2024 from Harvard and make some personal projects to 
 
 - ⚡ Fun fact: **I laugh about stupid things**
 
-- Best TV Series of all time: The Office (US)
+- 📺 Best TV Series of all time: The Office (US)
 
 
 <h3 align="left">Languages and Tools:</h3>
